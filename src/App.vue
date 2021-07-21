@@ -49,5 +49,12 @@ export default {
 </script>
 
 <style>
+#app {
+  font-family: 'Times New Roman', Times, serif;
+
+  text-align: center;
+  color: goldenrod;
+  margin-top: 100px;
+}
 
 </style>
